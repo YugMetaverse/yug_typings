@@ -1,0 +1,19 @@
+{
+  "name": "yug_typings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YugMetaverse/yug_typings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YugMetaverse/yug_typings/issues"
+  },
+  "homepage": "https://github.com/YugMetaverse/yug_typings#readme"
+}
