@@ -1,5 +1,5 @@
 {
     // Comments are supported, like tsconfig.json
-    "entryPoints": ["index.d.ts", "ue/ue.d.ts", "ue/ue_s.d.ts", "ue/ue_bp.d.ts", "ue/puerts.d.ts", "ue/puerts_decorators.d.ts",  "ffi/index.d.ts", "puerts/index.d.ts", "cpp/index.d.ts"],
+    "entryPoints": ["index.d.ts", "ue/ue.d.ts", "ue/ue_s.d.ts", "ue/ue_bp.d.ts", "ue/puerts.d.ts", "ue/puerts_decorators.d.ts",  "ffi/index.d.ts", "puerts/index.d.ts", "cpp/index.d.ts", "react-umg/index.d.ts"],
     "out": "docs"
 }

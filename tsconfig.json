@@ -7,7 +7,7 @@
       "experimentalDecorators": true,
       "jsx": "react",
       "incremental": true,
-      "lib": ["esnext"],
+      "lib": ["esnext", "dom"],
       "module": "CommonJS",
       "moduleResolution": "node",
       "noImplicitAny": false,
