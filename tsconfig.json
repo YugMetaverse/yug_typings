@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "declarationMap": true,
+      "emitDecoratorMetadata": false,
+      "esModuleInterop": true,
+      "experimentalDecorators": false,
+      "incremental": true,
+      "lib": ["esnext"],
+      "module": "CommonJS",
+      "moduleResolution": "node",
+      "noImplicitAny": false,
+      "noLib": false,
+      "removeComments": false,
+      "sourceMap": true,
+      "strictNullChecks": true,
+      "target": "esnext",
+      "types": [],
+      "outDir": "lib"
+    },
+    "include": ["index.d.ts"]
+  }

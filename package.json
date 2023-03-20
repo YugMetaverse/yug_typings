@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/YugMetaverse/yug_typings/issues"
   },
-  "homepage": "https://github.com/YugMetaverse/yug_typings#readme"
+  "homepage": "https://github.com/YugMetaverse/yug_typings#readme",
+  "devDependencies": {
+    "typedoc": "^0.23.28",
+    "typedoc-plugin-markdown": "^3.14.0"
+    }
 }
