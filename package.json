@@ -17,8 +17,14 @@
   },
   "homepage": "https://github.com/YugMetaverse/yug_typings#readme",
   "devDependencies": {
+    "@types/mocha": "^7.0.1",
+    "@types/react": "^15.6.6",
+    "@types/react-reconciler": "^0.18.0",
     "typedoc": "^0.23.28",
     "typedoc-markdown-theme": "^0.0.4",
     "typedoc-plugin-markdown": "^3.14.0"
+  },
+  "dependencies": {
+    "@types/node": "^18.15.3"
   }
 }
