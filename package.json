@@ -21,11 +21,10 @@
     "@types/react": "^15.6.6",
     "@types/react-reconciler": "^0.18.0",
     "typedoc": "^0.23.28",
-    "typedoc-markdown-theme": "^0.0.4",
-    "typedoc-plugin-markdown": "^3.14.0",
-    "typedoc-theme-hierarchy": "^3.1.0"
+    "typedoc-plugin-markdown": "^3.14.0"
   },
   "dependencies": {
-    "@types/node": "^18.15.3"
+    "@types/node": "^18.15.3",
+    "docsifydoc": "github:utkarshx/docsify-typedoc"
   }
 }
